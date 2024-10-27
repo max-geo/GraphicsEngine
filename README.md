@@ -1,4 +1,4 @@
-This is what the code does. Cube rotating along z and x axis. This works for any shape/model as long as I have the mesh.
+This is what the code does. Cube rotating along z and x axis.<br> This works for any shape/model as long as I have the mesh.
 <br>
 ![Project Demo](cube.gif)
 
